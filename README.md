@@ -12,4 +12,4 @@ Pandas
 | Notebook | Description |
 | --- | --- |
 | [pandas_basics](http://nbviewer.jupyter.org/github/tzlilalfasi/data_science_jupiter_notebooks/blob/master/pandas/pandas_basics.ipynb) | creating a dataframe using list and dictionary, using defined dataframes to calculate mean on each column, pass custom names for columns/indexes   |
-| [loading_data](http://nbviewer.jupyter.org/github/tzlilalfasi/data_science_jupiter_notebooks/blob/master/pandas/loading-data/loading_data.ipynb) | loading data in python from CSV, Excel, TXT and JSON files, indexing and slicing dataframes |
+| [loading_data](http://nbviewer.jupyter.org/github/tzlilalfasi/data_science_jupiter_notebooks/blob/master/pandas/loading_data/loading_data.ipynb) | loading data in python from CSV, Excel, TXT and JSON files, indexing and slicing dataframes |
